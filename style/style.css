@@ -1,0 +1,39 @@
+h1,h2,h3,h4,h5,h6{
+font-family: 'EB Garamond', serif;
+
+}
+p,a{
+    font-family: 'Poppins', sans-serif;
+}
+.banner-content{
+    background-image:url(../images/banner.png);
+    background-repeat: no-repeat;
+    height: 550px;
+}
+.slider-img-1{
+    background-image: url('../images/slider-1.jpg');
+    height: 650px;
+    width: 100%;
+}
+.slider-img-2{
+    background-image: url('../images/slider-2.jpg');
+    height: 650px;
+    width: 100%;
+}
+.slider-img-3{
+    background-image: url('../images/slider-3.jpg');
+    height: 650px;
+    width: 100%;
+}
+.slider-content img{
+    width: 75px;
+
+}
+#email {
+	height: 59px;
+	padding-left: 12px;
+}
+#submit {
+	height: 60px;
+	width: 85px;
+}
