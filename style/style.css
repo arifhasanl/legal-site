@@ -33,6 +33,10 @@ p,a{
 	height: 59px;
 	padding-left: 12px;
 }
+#submit {
+	height: 45px;
+	width: 110px;
+}
 #submit2 {
 	height: 60px;
 	width: 85px;
