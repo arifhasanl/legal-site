@@ -33,7 +33,10 @@ p,a{
 	height: 59px;
 	padding-left: 12px;
 }
-#submit {
+#submit2 {
 	height: 60px;
 	width: 85px;
+}
+.breadcrumb-area {
+	height: 300px;
 }
