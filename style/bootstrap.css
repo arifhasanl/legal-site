@@ -4447,9 +4447,10 @@ textarea.form-control-lg {
 }
 
 .accordion-item {
-  color: var(--bs-accordion-color);
-  background-color: var(--bs-accordion-bg);
-  border: var(--bs-accordion-border-width) solid var(--bs-accordion-border-color);
+	color: var(--bs-accordion-color);
+	background-color: var(--bs-accordion-bg);
+	border: var(--bs-accordion-border-width) solid var(--bs-accordion-border-color);
+	box-shadow: 0px 6px 35px 10px rgb(0,0,0,0.08);
 }
 .accordion-item:first-of-type {
   border-top-left-radius: var(--bs-accordion-border-radius);
